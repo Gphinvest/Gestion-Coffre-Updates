@@ -1,0 +1,6 @@
+{
+  "version": "2.0.7",
+  "url": "https://github.com/Gphinvest/Gestion-Coffre-Updates/releases/download/v2.0.7/Gestion_Coffre.exe",
+  "sha256": "d5585aa013626f7cd6036248bcf7bb824786b30b4de76e4fbd528121e0e8e656",
+  "notes": "Version 2.0.7 - Mise en place du système de mise à jour à distance via GitHub."
+}
