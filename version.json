@@ -1,6 +1,6 @@
 {
-  "version": "2.0.10",
-  "url": "https://github.com/Gphinvest/Gestion-Coffre-Updates/releases/download/v2.0.10/Gestion_Coffre.exe",
-  "sha256": "5e2b5b2496325a4f3d66dacb678e978aca325e457871e7740769987b20a527b9",
-  "notes": "Version 2.0.10 - Correction du mécanisme de mise à jour et du redémarrage automatique de l'application."
+  "version": "2.0.11",
+  "url": "https://github.com/Gphinvest/Gestion-Coffre-Updates/releases/download/v2.0.11/Gestion_Coffre.exe",
+  "sha256": "dac5be56cded59abdead1393896f85ef302a8f4fd0686b8ba387977ac8c74782",
+  "notes": "Version 2.0.11 - Mise à jour sécurisée sans redémarrage automatique afin d'éviter l'erreur PyInstaller python313.dll."
 }
