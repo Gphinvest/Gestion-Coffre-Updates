@@ -1,6 +1,6 @@
 {
-  "version": "2.0.7",
-  "url": "https://github.com/Gphinvest/Gestion-Coffre-Updates/releases/download/v2.0.7/Gestion_Coffre.exe",
-  "sha256": "d5585aa013626f7cd6036248bcf7bb824786b30b4de76e4fbd528121e0e8e656",
-  "notes": "Version 2.0.7 - Mise en place du système de mise à jour à distance via GitHub."
+  "version": "2.0.9",
+  "url": "https://github.com/Gphinvest/Gestion-Coffre-Updates/releases/download/v2.0.9/Gestion_Coffre.exe",
+  "sha256": "75615b4c164bc9069636d8e85bc73dc842d3e5f7db2d4071a213486b8e422a5c",
+  "notes": "Version 2.0.9 - Comptage des pièces par rouleaux, Autres espèces, aide intégrée et gestion des utilisateurs par les administrateurs."
 }
